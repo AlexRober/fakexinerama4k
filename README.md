@@ -7,4 +7,5 @@ Based on https://gist.github.com/phillipberndt/7688785 so check there for instru
 
 #Known Issues:
 1) Might not stick together the right 1920x2160 tiles if run with mutliple 4k monitors, espcially  if Xinerama screen numbers aren't sequential
+
 2) Doesn't attempt to support rotated 4k screens and their 2160x1920 tiles, although would be trival to all
