@@ -1,7 +1,7 @@
 fakexinerama4k
 ==============
 
-A version of fakexinerama that site between the actual libXinerama and clients and sticks together 2 1920x2160 tiled screens into a 3840x2160 screen, useful for 4k monitors that use MST
+A version of fakexinerama that sits between the actual libXinerama and clients and sticks together 2 1920x2160 tiled screens into a 3840x2160 screen, useful for 4k monitors that use MST
 
 Based on https://gist.github.com/phillipberndt/7688785 so check there for instructions
 
